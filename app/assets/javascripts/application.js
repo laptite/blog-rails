@@ -12,4 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require ../../../vendor/assets/javascripts/jquery.min.js
+//= require ../../../vendor/assets/javascripts/bootstrap.min.js
+//= require ../../../vendor/assets/javascripts/bootswatch.js
+//= require ../../../vendor/assets/javascripts/bsa.js
+
 //= require_tree .

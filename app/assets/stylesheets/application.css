@@ -9,5 +9,10 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
+ *= require ../../../vendor/assets/stylesheets/bootstrap.css
+ *= require ../../../vendor/assets/stylesheets/bootstrap.min.css
+ *= require ../../../vendor/assets/stylesheets/bootswatch.min.css
+ *= require ../../../vendor/assets/stylesheets/font-awesome.min.css
+
  *= require_tree .
  */
